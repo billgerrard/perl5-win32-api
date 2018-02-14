@@ -18,8 +18,8 @@ The current version of Win32::API is available at:
 
   http://search.cpan.org/dist/Win32-API/
 
-Here it is a short example of how you can use this module.
-It just gets the PID of the current process, eg. same as Perl's
+Here is a short example of how you can use this module. It 
+just gets the PID of the current process, eg. same as Perl's
 internal $$:
 
   use Win32::API;
